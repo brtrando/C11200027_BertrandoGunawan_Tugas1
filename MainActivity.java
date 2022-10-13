@@ -12,7 +12,6 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
     Button b,b1,b2,b3,b4,b5,b6,b7,b8,b9;
-    EditText et1;
     TextView tv;
     int res, temp1 = 0, temp2 = 0;
     int co =0;
